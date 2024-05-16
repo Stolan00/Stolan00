@@ -1,4 +1,1 @@
--  Hi, I’m Stolan.
--  I’m interested in gaming, music, movies, and rock climbing.
--  I’m currently studying Computer Science & Engineering at the University of Nevada, Reno.
 -  Email me at sbelikove@nevada.unr.edu.
